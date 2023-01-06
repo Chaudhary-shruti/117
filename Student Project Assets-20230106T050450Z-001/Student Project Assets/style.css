@@ -1,0 +1,25 @@
+body{
+    background-color:greenyellow;
+}
+h1{
+    background-color: rgb(255, 228, 197);
+    color: blue;
+}
+#show_sketch{
+
+    float: right;
+}
+#score{
+    font-size: 25px;
+    margin-left: 150px;
+    float: left;
+}
+#timer{
+    font-size: 25px;
+    float: right;
+    margin-right: 85px;
+}
+#sketch_drawn{
+   color:rgb(235, 15, 15);
+   font-size: 30px;
+}
